@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ivan Santos Matas</title>
+    <link>https://vanniius.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Ivan Santos Matas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 12:00:00 -0100</lastBuildDate><atom:link href="https://vanniius.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Analytics</title>
+      <link>https://vanniius.github.io/portfolio/tags/customer-analytics/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/customer-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://vanniius.github.io/portfolio/tags/eda/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://vanniius.github.io/portfolio/tags/r/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://vanniius.github.io/portfolio/tags/visualization/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://vanniius.github.io/portfolio/tags/database/</link>
+      <pubDate>Tue, 15 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://vanniius.github.io/portfolio/tags/postgresql/</link>
+      <pubDate>Tue, 15 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://vanniius.github.io/portfolio/tags/sql/</link>
+      <pubDate>Tue, 15 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

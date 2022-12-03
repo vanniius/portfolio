@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Ivan Santos Matas</title>
+    <link>https://vanniius.github.io/portfolio/tags/visualization/</link>
+    <description>Recent content in Visualization on Ivan Santos Matas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 12:00:00 -0100</lastBuildDate><atom:link href="https://vanniius.github.io/portfolio/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fancy interactive tables with reactable in R</title>
+      <link>https://vanniius.github.io/portfolio/post/interactive-tables-reactable/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/post/interactive-tables-reactable/</guid>
+      <description>Creating visually appealing tables and visualizations is an asset for any data analyst, especially when the findings have to be presented to the stakeholders or, in general, to a broad audience. In this way, R has some libraries that make this really simple. That is the case with reactable library, which makes it very easy to design very attractive interactive tables. I’ll be using this library along with reactablefmtr, which adds even more functionalities to create these tables.</description>
+    </item>
+    
+  </channel>
+</rss>

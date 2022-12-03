@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer Analytics on Ivan Santos Matas</title>
+    <link>https://vanniius.github.io/portfolio/tags/customer-analytics/</link>
+    <description>Recent content in Customer Analytics on Ivan Santos Matas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 12:00:00 -0100</lastBuildDate><atom:link href="https://vanniius.github.io/portfolio/tags/customer-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market basket analysis with R</title>
+      <link>https://vanniius.github.io/portfolio/post/market-basket-analysis-with-r/</link>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/post/market-basket-analysis-with-r/</guid>
+      <description>Market basket analysis focuses on finding associations between combinations of values in a dataset, using unsupervised algorithms such as apriori algorithm. A key advantage of using this method is the ability to establish relationships by only taking into account the aggregated purchasing patterns of consumers, like sets of receipts.
+In essence, the apriori algorithm is a data mining method that tries to identify patterns in the data to create a set of rules such that, given a set of elements, it tries to identify those items that tend to appear when we observe the purchase of another item, or a set of them.</description>
+    </item>
+    
+  </channel>
+</rss>

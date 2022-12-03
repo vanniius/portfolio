@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Ivan Santos Matas</title>
+    <link>https://vanniius.github.io/portfolio/tags/database/</link>
+    <description>Recent content in Database on Ivan Santos Matas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 12:00:00 -0100</lastBuildDate><atom:link href="https://vanniius.github.io/portfolio/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL: Analysing train service data</title>
+      <link>https://vanniius.github.io/portfolio/post/sql-eda-train-service/</link>
+      <pubDate>Tue, 15 Nov 2022 12:00:00 -0100</pubDate>
+      
+      <guid>https://vanniius.github.io/portfolio/post/sql-eda-train-service/</guid>
+      <description>For months I&amp;rsquo;ve been scraping some essential data about commuter and regional trains serviced by Renfe, the main railway provider in Catalonia, such as train schedules or tracking data.
+Serving about 350,000 daily rides on weekdays, Renfe&amp;rsquo;s service has been usually refered as very poor, unpunctual, and unreliable. To test these feelings, I&amp;rsquo;ll perform an exploratory data analysis (EDA) on the scraped data using PostgreSQL syntax to query the data directly from the database.</description>
+    </item>
+    
+  </channel>
+</rss>
